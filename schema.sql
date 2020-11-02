@@ -1,5 +1,5 @@
 create table MENU_ITEM (
-	itemid         integer not null,
+    itemid         integer not null,
     name           varchar (30) not null,
     price          decimal (5, 2) not null,
     available      varchar (10) not null,
